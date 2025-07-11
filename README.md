@@ -21,6 +21,7 @@ Technologies Used
 
  How to Use:
  A.Clone or download the project
+ 
  B.
      1. Open terminal and go to the project folder.
      2. Make the script executable:
