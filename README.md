@@ -22,6 +22,9 @@ Technologies Used
 
  How to Use:
  Clone or download the project dirrectly from github
+
+ OR 
+ 
      1. Open terminal and go to the project folder.
      
      2. Make the script executable:
