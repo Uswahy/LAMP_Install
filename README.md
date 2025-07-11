@@ -1,6 +1,7 @@
 LAMP Stack Installer - Bash Script (Mini Project)
 
 This project is a Bash script to automatically install and configure the LAMP stack (Linux, Apache, MySQL, PHP) on an Ubuntu system. It’s part of a CLI, users, permissions, and bash script practice project.
+The LAMP stack is a set of open-source software used to build and run dynamic websites and web applications. It stands for Linux (operating system), Apache (web server), MySQL (database), and PHP (scripting language). 
 
 Features
 
@@ -24,7 +25,9 @@ Technologies Used
  
  B.
      1. Open terminal and go to the project folder.
+     
      2. Make the script executable:
    chmod +x install_lamp.sh
+   
      3. Run the script:
    sudo ./install_lamp.sh
