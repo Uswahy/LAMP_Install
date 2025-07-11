@@ -21,13 +21,12 @@ Technologies Used
 - PHP
 
  How to Use:
- A.Clone or download the project
+ Clone or download the project dirrectly from github
  
- B.
-     1. Open terminal and go to the project folder.
+ 1. Open terminal and go to the project folder.
      
      2. Make the script executable:
-   chmod +x install_lamp.sh
+                                   chmod +x install_lamp.sh
    
      3. Run the script:
-   sudo ./install_lamp.sh
+                                     sudo ./install_lamp.sh
